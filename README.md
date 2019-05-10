@@ -1,2 +1,3 @@
 # hello-world
-this is a hellow world example
+whatsap new knowledge
+richard here grasping this new git infor
